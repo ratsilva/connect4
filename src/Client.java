@@ -13,7 +13,7 @@ public class Client {
 
     private static Integer gameId;
     private static int[][] tabuleiro = new int[6][7];
-    private static int jogador;
+    private static Integer jogador;
 
     public static void main(String[] args) throws Exception {
         String hostname = "localhost";
@@ -58,6 +58,11 @@ public class Client {
                     desenhaTabuleiro();
                     getColumn(out);
                 } else {
+                    if (response.equals("YOU LOSE")) {
+                        inicializaTabuleiro();
+                        jogador = null;
+                        gameId = null;
+                    }
                     System.out.println(response);
                 }
             }
@@ -74,6 +79,16 @@ public class Client {
         out.flush();
         inserePeca(Integer.valueOf(col), jogador);
         desenhaTabuleiro();
+
+        int vencedor = verificaVencedor();
+        if (vencedor != 0) {
+            out.println(gameId + "/I WON");
+            out.flush();
+            System.out.println("YOU WON!");
+            inicializaTabuleiro();
+            jogador = null;
+            gameId = null;
+        }
     }
 
     public static int verificaVencedor(){

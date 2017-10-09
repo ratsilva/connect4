@@ -64,13 +64,23 @@ class ClientServiceThread extends Thread {
                             }
                         }
                     } else {
-                        String[] columnInput = clientCommand.split("/");
-                        String gameId = columnInput[0];
-                        String column = columnInput[1];
-                        Socket oponent = findMyOponent(gameId, clientSocket);
-                        PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(oponent.getOutputStream()));
-                        oponentOut.println("col=" + column);
-                        oponentOut.flush();
+                        if (clientCommand.equals("I WON")) {
+                            String[] columnInput = clientCommand.split("/");
+                            String gameId = columnInput[0];
+                            Socket loser = findMyOponent(gameId, clientSocket);
+                            PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(loser.getOutputStream()));
+                            listJogosAtivos.remove(findGameById(gameId));
+                            oponentOut.println("YOU LOSE");
+                            oponentOut.flush();
+                        } else {
+                            String[] columnInput = clientCommand.split("/");
+                            String gameId = columnInput[0];
+                            String column = columnInput[1];
+                            Socket oponent = findMyOponent(gameId, clientSocket);
+                            PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(oponent.getOutputStream()));
+                            oponentOut.println("col=" + column);
+                            oponentOut.flush();
+                        }
                     }
                 }
             }
@@ -80,17 +90,21 @@ class ClientServiceThread extends Thread {
     }
 
     private Socket findMyOponent(String gameId, Socket clientSocket) {
-        Jogo j = null;
-        for (Jogo jogo : listJogosAtivos) {
-            if (jogo.getId().equals(Integer.valueOf(gameId))) {
-               j = jogo;
-            }
-        }
+        Jogo j = findGameById(gameId);
         if (j.getPlayer1().equals(clientSocket)) {
             return j.getPlayer2();
         } else {
             return j.getPlayer1();
         }
+    }
+
+    private Jogo findGameById(String gameId) {
+        for (Jogo jogo : listJogosAtivos) {
+            if (jogo.getId().equals(Integer.valueOf(gameId))) {
+               return jogo;
+            }
+        }
+        return null;
     }
 
     private void startGame(Socket player1, Socket player2) throws IOException {
