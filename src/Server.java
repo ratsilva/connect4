@@ -55,31 +55,48 @@ class ClientServiceThread extends Thread {
                 } else {
                     if (clientCommand.equals("start")) {
                         listClientesAtivos.add(clientSocket);
-                        for (Socket client : listClientesAtivos) {
-                            if (!client.equals(clientSocket)) {
-                                startGame(client, clientSocket);
-                            } else {
-                                out.println("cound not find a game");
-                                out.flush();
+                        if (listClientesAtivos.size() > 1) {
+                            for (Socket client : listClientesAtivos) {
+                                if (!client.equals(clientSocket)) {
+                                    startGame(client, clientSocket);
+                                } else {
+                                    out.println("could not find a game");
+                                    out.flush();
+                                }
                             }
+                        } else {
+                            out.println("could not find a game");
+                            out.flush();
                         }
                     } else {
-                        if (clientCommand.equals("I WON")) {
+                        if (clientCommand.contains("I WON")) {
                             String[] columnInput = clientCommand.split("/");
                             String gameId = columnInput[0];
+                            Integer col = Integer.valueOf(columnInput[2]);
                             Socket loser = findMyOponent(gameId, clientSocket);
                             PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(loser.getOutputStream()));
                             listJogosAtivos.remove(findGameById(gameId));
-                            oponentOut.println("YOU LOSE");
+                            oponentOut.println("YOU LOSE/" + col);
                             oponentOut.flush();
                         } else {
-                            String[] columnInput = clientCommand.split("/");
-                            String gameId = columnInput[0];
-                            String column = columnInput[1];
-                            Socket oponent = findMyOponent(gameId, clientSocket);
-                            PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(oponent.getOutputStream()));
-                            oponentOut.println("col=" + column);
-                            oponentOut.flush();
+                            if (clientCommand.contains("TIE")) {
+                                String[] columnInput = clientCommand.split("/");
+                                String gameId = columnInput[0];
+                                Integer col = Integer.valueOf(columnInput[2]);
+                                Socket tie = findMyOponent(gameId, clientSocket);
+                                PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(tie.getOutputStream()));
+                                listJogosAtivos.remove(findGameById(gameId));
+                                oponentOut.println("TIE/" + col);
+                                oponentOut.flush();
+                            } else {
+                                String[] columnInput = clientCommand.split("/");
+                                String gameId = columnInput[0];
+                                String column = columnInput[1];
+                                Socket oponent = findMyOponent(gameId, clientSocket);
+                                PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(oponent.getOutputStream()));
+                                oponentOut.println("col=" + column);
+                                oponentOut.flush();
+                            }
                         }
                     }
                 }
