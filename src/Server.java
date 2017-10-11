@@ -1,15 +1,19 @@
 package src;
 
-import java.io.*;
+import static src.Server.listClientesAtivos;
+import static src.Server.listJogosAtivos;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-
-import static src.Server.listClientesAtivos;
-import static src.Server.listJogosAtivos;
 
 /**
  * Created by lbertoni on 08/10/2017.
@@ -94,6 +98,8 @@ class ClientServiceThread extends Thread {
                                 String column = columnInput[1];
                                 Socket oponent = findMyOponent(gameId, clientSocket);
                                 PrintWriter oponentOut = new PrintWriter(new OutputStreamWriter(oponent.getOutputStream()));
+                                System.out.println("col=" + column);
+                                Thread.sleep(500);
                                 oponentOut.println("col=" + column);
                                 oponentOut.flush();
                             }

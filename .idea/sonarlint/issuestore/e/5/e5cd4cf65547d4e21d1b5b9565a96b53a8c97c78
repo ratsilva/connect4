@@ -1,0 +1,19 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(š€ºÌ
+[squid:S2259"?A "NullPointerException" could be thrown; "j" is nullable here.(ø¢§8¾Î›‘ğ+
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ùÒ£ûÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(“–ış
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾Î›‘ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Äß‹½úÿÿÿÿ8©Á¡œğ+
+<squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(¾Ùú²8¾Î›‘ğ+
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(“–ış
+Osquid:S2209"5Change this instance-reference to a static reference.(æ£­ùøÿÿÿÿ
+Vsquid:S2209"5Change this instance-reference to a static reference.(«œ‘”ùÿÿÿÿ8¾Î›‘ğ+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çé…ò
+Jsquid:S2095"0Close this "ServerSocket" in a "finally" clause.(¦ùÒ£ûÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(ëèï8¾Î›‘ğ+
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÉ›®

@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1bf2178-ca79-4ce8-afa8-664384f6bd50" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/248b31b7dc627f768354cbb6bad9da3c99981c4d" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/911e43cf661dce07d4e2e09bdbe1fc39e664e316" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5cd4cf65547d4e21d1b5b9565a96b53a8c97c78" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fab6dac3cdc568ed7aa4122a6189ef47d0fab33c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/src/Client.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/src/ClientServiceThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/src/Jogo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/src/Server.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/src/TesteInterface$Disc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/src/TesteInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/connect4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TesteInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Client.java" afterPath="$PROJECT_DIR$/src/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Server.java" afterPath="$PROJECT_DIR$/src/Server.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="88" column="62" lean-forward="true" selection-start-line="88" selection-start-column="62" selection-end-line="88" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+              <folding>
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="744" column="16" lean-forward="false" selection-start-line="744" selection-start-column="16" selection-end-line="744" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TesteInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TesteInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="145" column="18" lean-forward="false" selection-start-line="145" selection-start-column="18" selection-end-line="145" selection-end-column="18" />
+              <folding>
+                <element signature="e#3508#3509#0" expanded="true" />
+                <element signature="e#3542#3543#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parent.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/Parent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4530">
+              <caret line="366" column="0" lean-forward="false" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#71000#0" expanded="false" />
+                <element signature="docComment;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#REMOVED_CHILDREN_THRESHOLD#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#removedChildrenOptimizationDisabled#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_updatePeer#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#childSet#0;class#Parent#0" expanded="false" />
+                <element signature="e#5652#5658#0" expanded="false" />
+                <element signature="docComment;field#geomChanged#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#unmodifiableChildren#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#unmodifiableManagedChildren#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#getChildren#0;class#Parent#0" expanded="false" />
+                <element signature="e#23786#23787#0" expanded="false" />
+                <element signature="e#23817#23818#0" expanded="false" />
+                <element signature="docComment;method#getChildrenUnmodifiable#0;class#Parent#0" expanded="false" />
+                <element signature="e#24093#24094#0" expanded="false" />
+                <element signature="e#24136#24137#0" expanded="false" />
+                <element signature="docComment;method#getManagedChildren#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#managedChildChanged#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_pickNodeLocal#0;class#Parent#0" expanded="false" />
+                <element signature="e#28821#28822#0" expanded="false" />
+                <element signature="e#28876#28877#0" expanded="false" />
+                <element signature="docComment;method#lookupAll#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#impl_traversalEngine#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#setImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#getImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_traversalEngineProperty#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#needsLayout#0;class#Parent#0" expanded="false" />
+                <element signature="e#32573#32574#0" expanded="false" />
+                <element signature="e#32634#32635#0" expanded="false" />
+                <element signature="docComment;field#performingLayout#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#requestLayout#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#requestParentLayout#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#computePrefWidth#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#computePrefHeight#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#computeMinWidth#0;class#Parent#0" expanded="false" />
+                <element signature="e#40014#40015#0" expanded="false" />
+                <element signature="e#40054#40055#0" expanded="false" />
+                <element signature="docComment;method#computeMinHeight#0;class#Parent#0" expanded="false" />
+                <element signature="e#40437#40438#0" expanded="false" />
+                <element signature="e#40477#40478#0" expanded="false" />
+                <element signature="docComment;method#getBaselineOffset#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#layout#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#layoutChildren#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#sceneRoot#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#layoutRoot#0;class#Parent#0" expanded="false" />
+                <element signature="e#44061#44062#0" expanded="false" />
+                <element signature="e#44115#44116#0" expanded="false" />
+                <element signature="e#44150#44151#0" expanded="false" />
+                <element signature="e#44182#44183#0" expanded="false" />
+                <element signature="docComment;field#stylesheets#0;class#Parent#0" expanded="false" />
+                <element signature="e#44895#45758#0" expanded="false" />
+                <element signature="e#45757#45758#0" expanded="false" />
+                <element signature="docComment;method#getStylesheets#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_getAllParentStylesheets#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_processCSS#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#Parent#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_createPeer#0;class#Parent#0" expanded="false" />
+                <element signature="e#50831#50832#0" expanded="false" />
+                <element signature="e#50867#50868#0" expanded="false" />
+                <element signature="docComment;field#tmp#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#cachedBounds#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#cachedBoundsInvalid#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#dirtyChildrenCount#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;field#dirtyChildren#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_computeGeomBounds#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#recomputeBounds#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#childBoundsChanged#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#childVisibilityChanged#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_computeContains#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#impl_processMXNode#0;class#Parent#0" expanded="false" />
+                <element signature="docComment;method#test_getRemoved#0;class#Parent#0" expanded="false" />
+                <element signature="e#70966#70967#0" expanded="false" />
+                <element signature="e#70996#70997#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Event.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/event/Event.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scene.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/Scene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="3778" column="33" lean-forward="true" selection-start-line="3778" selection-start-column="33" selection-end-line="3778" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/application/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="144" column="22" lean-forward="false" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#17026#0" expanded="false" />
+                <element signature="docComment;class#Application#0" expanded="false" />
+                <element signature="docComment;field#STYLESHEET_CASPIAN#0;class#Application#0" expanded="false" />
+                <element signature="docComment;field#STYLESHEET_MODENA#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#launch#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#launch#1;class#Application#0" expanded="false" />
+                <element signature="docComment;method#Application#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#init#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#start#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#stop#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#getHostServices#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#getParameters#0;class#Application#0" expanded="false" />
+                <element signature="e#12081#12082#0" expanded="false" />
+                <element signature="e#12138#12139#0" expanded="false" />
+                <element signature="docComment;method#notifyPreloader#0;class#Application#0" expanded="false" />
+                <element signature="e#13144#13145#0" expanded="false" />
+                <element signature="e#13200#13201#0" expanded="false" />
+                <element signature="docComment;class#Parameters#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#Parameters#0;class#Parameters#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#getRaw#0;class#Parameters#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#getUnnamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#getNamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+                <element signature="docComment;method#getUserAgentStylesheet#0;class#Application#0" expanded="false" />
+                <element signature="e#15846#15847#0" expanded="false" />
+                <element signature="e#15888#15889#0" expanded="false" />
+                <element signature="docComment;method#setUserAgentStylesheet#0;class#Application#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Optional.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Optional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="144" column="19" lean-forward="false" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#11843#0" expanded="false" />
+                <element signature="docComment;class#Optional#0" expanded="false" />
+                <element signature="docComment;field#EMPTY#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;field#value#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#Optional#0;class#Optional#0" expanded="false" />
+                <element signature="e#1678#1679#0" expanded="false" />
+                <element signature="e#1711#1712#0" expanded="false" />
+                <element signature="docComment;method#empty#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#Optional#1;class#Optional#0" expanded="false" />
+                <element signature="e#2570#2571#0" expanded="false" />
+                <element signature="e#2628#2629#0" expanded="false" />
+                <element signature="docComment;method#of#0;class#Optional#0" expanded="false" />
+                <element signature="e#2998#2999#0" expanded="false" />
+                <element signature="e#3042#3043#0" expanded="false" />
+                <element signature="docComment;method#ofNullable#0;class#Optional#0" expanded="false" />
+                <element signature="e#3486#3487#0" expanded="false" />
+                <element signature="e#3544#3545#0" expanded="false" />
+                <element signature="docComment;method#get#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#isPresent#0;class#Optional#0" expanded="false" />
+                <element signature="e#4242#4243#0" expanded="false" />
+                <element signature="e#4278#4279#0" expanded="false" />
+                <element signature="docComment;method#ifPresent#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#filter#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#map#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#flatMap#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#orElse#0;class#Optional#0" expanded="false" />
+                <element signature="e#8628#8629#0" expanded="false" />
+                <element signature="e#8680#8681#0" expanded="false" />
+                <element signature="docComment;method#orElseGet#0;class#Optional#0" expanded="false" />
+                <element signature="e#9141#9142#0" expanded="false" />
+                <element signature="e#9199#9200#0" expanded="false" />
+                <element signature="docComment;method#orElseThrow#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#equals#0;class#Optional#0" expanded="false" />
+                <element signature="docComment;method#hashCode#0;class#Optional#0" expanded="false" />
+                <element signature="e#11157#11158#0" expanded="false" />
+                <element signature="e#11203#11204#0" expanded="false" />
+                <element signature="docComment;method#toString#0;class#Optional#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/shape/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16635">
+              <caret line="1600" column="24" lean-forward="false" selection-start-line="1600" selection-start-column="24" selection-end-line="1600" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#64655#0" expanded="false" />
+                <element signature="docComment;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#impl_createPeer#0;class#Shape#0" expanded="false" />
+                <element signature="e#4885#4886#0" expanded="false" />
+                <element signature="e#4909#4910#0" expanded="false" />
+                <element signature="e#4966#4967#0" expanded="false" />
+                <element signature="e#5013#5014#0" expanded="false" />
+                <element signature="docComment;method#strokeTypeProperty#0;class#Shape#0" expanded="false" />
+                <element signature="e#5680#5681#0" expanded="false" />
+                <element signature="e#5739#5740#0" expanded="false" />
+                <element signature="e#5793#5794#0" expanded="false" />
+                <element signature="e#5841#5842#0" expanded="false" />
+                <element signature="docComment;method#strokeWidthProperty#0;class#Shape#0" expanded="false" />
+                <element signature="e#6274#6275#0" expanded="false" />
+                <element signature="e#6334#6335#0" expanded="false" />
+                <element signature="e#6399#6400#0" expanded="false" />
+                <element signature="e#6450#6451#0" expanded="false" />
+                <element signature="docComment;method#strokeLineJoinProperty#0;class#Shape#0" expanded="false" />
+                <element signature="e#7301#7302#0" expanded="false" />
+                <element signature="e#7351#7352#0" expanded="false" />
+                <element signature="docComment;method#strokeLineCapProperty#0;class#Shape#0" expanded="false" />
+                <element signature="e#8199#8200#0" expanded="false" />
+                <element signature="e#8252#8253#0" expanded="false" />
+                <element signature="docComment;method#strokeMiterLimitProperty#0;class#Shape#0" expanded="false" />
+                <element signature="e#9262#9263#0" expanded="false" />
+                <element signature="e#9327#9328#0" expanded="false" />
+                <element signature="e#9386#9387#0" expanded="false" />
+                <element signature="e#9439#9440#0" expanded="false" />
+                <element signature="docComment;method#strokeDashOffsetProperty#0;class#Shape#0" expanded="false" />
+                <element signature="e#10344#10345#0" expanded="false" />
+                <element signature="e#10409#10410#0" expanded="false" />
+                <element signature="docComment;method#getStrokeDashArray#0;class#Shape#0" expanded="false" />
+                <element signature="e#11926#11927#0" expanded="false" />
+                <element signature="e#11990#11991#0" expanded="false" />
+                <element signature="docComment;field#impl_mode#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#fill#0;class#Shape#0" expanded="false" />
+                <element signature="e#13255#13256#0" expanded="false" />
+                <element signature="e#13296#13297#0" expanded="false" />
+                <element signature="e#13332#13333#0" expanded="false" />
+                <element signature="e#13394#13395#0" expanded="false" />
+                <element signature="e#14488#14489#0" expanded="false" />
+                <element signature="e#14559#14560#0" expanded="false" />
+                <element signature="e#14628#14629#0" expanded="false" />
+                <element signature="e#14685#14686#0" expanded="false" />
+                <element signature="e#14754#14755#0" expanded="false" />
+                <element signature="e#14807#14808#0" expanded="false" />
+                <element signature="docComment;field#stroke#0;class#Shape#0" expanded="false" />
+                <element signature="e#15277#15278#0" expanded="false" />
+                <element signature="e#15320#15321#0" expanded="false" />
+                <element signature="e#15406#15693#0" expanded="false" />
+                <element signature="e#15692#15693#0" expanded="false" />
+                <element signature="e#15731#15732#0" expanded="false" />
+                <element signature="e#15790#15791#0" expanded="false" />
+                <element signature="e#16897#16898#0" expanded="false" />
+                <element signature="e#16970#16971#0" expanded="false" />
+                <element signature="e#17039#17040#0" expanded="false" />
+                <element signature="e#17096#17097#0" expanded="false" />
+                <element signature="e#17165#17166#0" expanded="false" />
+                <element signature="e#17220#17221#0" expanded="false" />
+                <element signature="docComment;field#smooth#0;class#Shape#0" expanded="false" />
+                <element signature="e#17558#17559#0" expanded="false" />
+                <element signature="e#17601#17602#0" expanded="false" />
+                <element signature="e#17640#17641#0" expanded="false" />
+                <element signature="e#17699#17700#0" expanded="false" />
+                <element signature="e#17911#17912#0" expanded="false" />
+                <element signature="e#17988#17989#0" expanded="false" />
+                <element signature="e#18084#18085#0" expanded="false" />
+                <element signature="e#18157#18158#0" expanded="false" />
+                <element signature="e#18226#18227#0" expanded="false" />
+                <element signature="e#18283#18284#0" expanded="false" />
+                <element signature="e#18352#18353#0" expanded="false" />
+                <element signature="e#18407#18408#0" expanded="false" />
+                <element signature="docComment;method#impl_cssGetFillInitialValue#0;class#Shape#0" expanded="false" />
+                <element signature="e#19291#19292#0" expanded="false" />
+                <element signature="e#19325#19326#0" expanded="false" />
+                <element signature="docComment;method#impl_cssGetStrokeInitialValue#0;class#Shape#0" expanded="false" />
+                <element signature="e#19753#19754#0" expanded="false" />
+                <element signature="e#19780#19781#0" expanded="false" />
+                <element signature="docComment;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#FILL#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="e#20338#20339#0" expanded="false" />
+                <element signature="e#20418#20419#0" expanded="false" />
+                <element signature="docComment;field#SMOOTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="e#21323#21324#0" expanded="false" />
+                <element signature="e#21407#21408#0" expanded="false" />
+                <element signature="docComment;field#STROKE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="e#21994#21995#0" expanded="false" />
+                <element signature="e#22078#22079#0" expanded="false" />
+                <element signature="docComment;field#STROKE_DASH_ARRAY#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="e#23563#23564#0" expanded="false" />
+                <element signature="e#23606#23607#0" expanded="false" />
+                <element signature="docComment;field#STROKE_DASH_OFFSET#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#STROKE_LINE_CAP#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#STROKE_LINE_JOIN#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#STROKE_TYPE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#STROKE_MITER_LIMIT#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;field#STROKE_WIDTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+                <element signature="e#28797#28834#0" expanded="false" />
+                <element signature="docComment;method#getClassCssMetaData#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#getCssMetaData#0;class#Shape#0" expanded="false" />
+                <element signature="e#29828#29829#0" expanded="false" />
+                <element signature="e#29872#29873#0" expanded="false" />
+                <element signature="docComment;method#impl_computeGeomBounds#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#impl_computeContains#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#impl_configShape#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#impl_markDirty#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#impl_setShapeChangeListener#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#impl_updatePeer#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#computeBounds#0;class#Shape#0" expanded="false" />
+                <element signature="e#42214#42215#0" expanded="false" />
+                <element signature="e#42298#42299#0" expanded="false" />
+                <element signature="e#43587#43588#0" expanded="false" />
+                <element signature="e#43667#43668#0" expanded="false" />
+                <element signature="e#44184#44185#0" expanded="false" />
+                <element signature="e#44270#44271#0" expanded="false" />
+                <element signature="e#44347#44348#0" expanded="false" />
+                <element signature="e#44412#44413#0" expanded="false" />
+                <element signature="e#44489#44490#0" expanded="false" />
+                <element signature="e#44556#44557#0" expanded="false" />
+                <element signature="e#44660#44661#0" expanded="false" />
+                <element signature="e#44743#44744#0" expanded="false" />
+                <element signature="e#45237#45238#0" expanded="false" />
+                <element signature="e#45324#45325#0" expanded="false" />
+                <element signature="e#45401#45402#0" expanded="false" />
+                <element signature="e#45466#45467#0" expanded="false" />
+                <element signature="e#45543#45544#0" expanded="false" />
+                <element signature="e#45611#45612#0" expanded="false" />
+                <element signature="e#46617#46618#0" expanded="false" />
+                <element signature="e#46682#46683#0" expanded="false" />
+                <element signature="e#46759#46760#0" expanded="false" />
+                <element signature="e#46830#46831#0" expanded="false" />
+                <element signature="e#47823#47824#0" expanded="false" />
+                <element signature="e#47888#47889#0" expanded="false" />
+                <element signature="e#47965#47966#0" expanded="false" />
+                <element signature="e#48035#48036#0" expanded="false" />
+                <element signature="e#48849#48850#0" expanded="false" />
+                <element signature="e#48942#48943#0" expanded="false" />
+                <element signature="e#49019#49020#0" expanded="false" />
+                <element signature="e#49084#49085#0" expanded="false" />
+                <element signature="e#49161#49162#0" expanded="false" />
+                <element signature="e#49234#49235#0" expanded="false" />
+                <element signature="e#50052#50053#0" expanded="false" />
+                <element signature="e#50145#50146#0" expanded="false" />
+                <element signature="e#50222#50223#0" expanded="false" />
+                <element signature="e#50287#50288#0" expanded="false" />
+                <element signature="e#50364#50365#0" expanded="false" />
+                <element signature="e#50437#50438#0" expanded="false" />
+                <element signature="e#50719#51024#0" expanded="false" />
+                <element signature="e#51023#51024#0" expanded="false" />
+                <element signature="e#52157#52158#0" expanded="false" />
+                <element signature="e#52222#52223#0" expanded="false" />
+                <element signature="e#52299#52300#0" expanded="false" />
+                <element signature="e#52368#52369#0" expanded="false" />
+                <element signature="e#52681#52682#0" expanded="false" />
+                <element signature="e#52745#52746#0" expanded="false" />
+                <element signature="e#52785#52786#0" expanded="false" />
+                <element signature="e#52851#52852#0" expanded="false" />
+                <element signature="e#52894#52895#0" expanded="false" />
+                <element signature="e#52966#52967#0" expanded="false" />
+                <element signature="e#53008#53009#0" expanded="false" />
+                <element signature="e#53078#53079#0" expanded="false" />
+                <element signature="e#53123#53124#0" expanded="false" />
+                <element signature="e#53199#53200#0" expanded="false" />
+                <element signature="e#53244#53245#0" expanded="false" />
+                <element signature="e#53320#53321#0" expanded="false" />
+                <element signature="e#53361#53362#0" expanded="false" />
+                <element signature="e#53411#53412#0" expanded="false" />
+                <element signature="docComment;method#impl_processMXNode#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#union#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#subtract#0;class#Shape#0" expanded="false" />
+                <element signature="docComment;method#intersect#0;class#Shape#0" expanded="false" />
+                <element signature="e#60358#60359#0" expanded="false" />
+                <element signature="e#60436#60437#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userIn</find>
+      <find>yourTurn</find>
+      <find>out</find>
+      <find>play</find>
+      <find>turn</find>
+      <find>our</find>
+      <find>sua vez</find>
+      <find>ez de jogar</find>
+      <find>gameid</find>
+      <find>col-</find>
+      <find>inserida</find>
+      <find>testeinter</find>
+      <find>&quot;col&quot;</find>
+      <find>coluna</find>
+      <find>out.fl</find>
+      <find>/</find>
+      <find>colocouPeca</find>
+      <find>col</find>
+      <find>red</find>
+      <find>col&quot;</find>
+      <find>won</find>
+      <find>WON</find>
+      <find>lose</find>
+      <find>you lo</find>
+      <find>you lose</find>
+      <find>PER</find>
+      <find>Você venceu!</find>
+      <find>platfor</find>
+      <find>venceu!</find>
+      <find>start</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Teste.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/TesteInterface.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="width" value="1274" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SONARLINT_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TesteInterface">
+    <configuration default="false" name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="src.Server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="connect4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="src.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="connect4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TesteInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="src.TesteInterface" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="connect4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="connect4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Server" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TesteInterface" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.TesteInterface" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Server" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1bf2178-ca79-4ce8-afa8-664384f6bd50" name="Default" comment="" />
+      <created>1507556749773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507556749773</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Corrigindo bugs e incluindo verificação de empate">
+      <created>1507579664241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507579664241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="0" width="1274" height="998" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28050172" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Corrigindo bugs e incluindo verificação de empate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo bugs e incluindo verificação de empate" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>342</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>329</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>325</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Client.java</url>
+          <line>334</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6840">
+          <caret line="460" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4530">
+          <caret line="366" column="0" lean-forward="false" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#71000#0" expanded="false" />
+            <element signature="docComment;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#REMOVED_CHILDREN_THRESHOLD#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#removedChildrenOptimizationDisabled#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_updatePeer#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#childSet#0;class#Parent#0" expanded="false" />
+            <element signature="e#5652#5658#0" expanded="false" />
+            <element signature="docComment;field#geomChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#unmodifiableChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#unmodifiableManagedChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#getChildren#0;class#Parent#0" expanded="false" />
+            <element signature="e#23786#23787#0" expanded="false" />
+            <element signature="e#23817#23818#0" expanded="false" />
+            <element signature="docComment;method#getChildrenUnmodifiable#0;class#Parent#0" expanded="false" />
+            <element signature="e#24093#24094#0" expanded="false" />
+            <element signature="e#24136#24137#0" expanded="false" />
+            <element signature="docComment;method#getManagedChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#managedChildChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_pickNodeLocal#0;class#Parent#0" expanded="false" />
+            <element signature="e#28821#28822#0" expanded="false" />
+            <element signature="e#28876#28877#0" expanded="false" />
+            <element signature="docComment;method#lookupAll#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#impl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#setImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#getImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_traversalEngineProperty#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#needsLayout#0;class#Parent#0" expanded="false" />
+            <element signature="e#32573#32574#0" expanded="false" />
+            <element signature="e#32634#32635#0" expanded="false" />
+            <element signature="docComment;field#performingLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#requestLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#requestParentLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computePrefWidth#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computePrefHeight#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computeMinWidth#0;class#Parent#0" expanded="false" />
+            <element signature="e#40014#40015#0" expanded="false" />
+            <element signature="e#40054#40055#0" expanded="false" />
+            <element signature="docComment;method#computeMinHeight#0;class#Parent#0" expanded="false" />
+            <element signature="e#40437#40438#0" expanded="false" />
+            <element signature="e#40477#40478#0" expanded="false" />
+            <element signature="docComment;method#getBaselineOffset#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#layout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#layoutChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#sceneRoot#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#layoutRoot#0;class#Parent#0" expanded="false" />
+            <element signature="e#44061#44062#0" expanded="false" />
+            <element signature="e#44115#44116#0" expanded="false" />
+            <element signature="e#44150#44151#0" expanded="false" />
+            <element signature="e#44182#44183#0" expanded="false" />
+            <element signature="docComment;field#stylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="e#44895#45758#0" expanded="false" />
+            <element signature="e#45757#45758#0" expanded="false" />
+            <element signature="docComment;method#getStylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_getAllParentStylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_processCSS#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#Parent#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_createPeer#0;class#Parent#0" expanded="false" />
+            <element signature="e#50831#50832#0" expanded="false" />
+            <element signature="e#50867#50868#0" expanded="false" />
+            <element signature="docComment;field#tmp#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#cachedBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#cachedBoundsInvalid#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#dirtyChildrenCount#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#dirtyChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_computeGeomBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#recomputeBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#childBoundsChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#childVisibilityChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_computeContains#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_processMXNode#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#test_getRemoved#0;class#Parent#0" expanded="false" />
+            <element signature="e#70966#70967#0" expanded="false" />
+            <element signature="e#70996#70997#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="188" column="37" lean-forward="false" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="144" column="22" lean-forward="false" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#17026#0" expanded="false" />
+            <element signature="docComment;class#Application#0" expanded="false" />
+            <element signature="docComment;field#STYLESHEET_CASPIAN#0;class#Application#0" expanded="false" />
+            <element signature="docComment;field#STYLESHEET_MODENA#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#launch#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#launch#1;class#Application#0" expanded="false" />
+            <element signature="docComment;method#Application#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getHostServices#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getParameters#0;class#Application#0" expanded="false" />
+            <element signature="e#12081#12082#0" expanded="false" />
+            <element signature="e#12138#12139#0" expanded="false" />
+            <element signature="docComment;method#notifyPreloader#0;class#Application#0" expanded="false" />
+            <element signature="e#13144#13145#0" expanded="false" />
+            <element signature="e#13200#13201#0" expanded="false" />
+            <element signature="docComment;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#Parameters#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getRaw#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getUnnamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getNamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getUserAgentStylesheet#0;class#Application#0" expanded="false" />
+            <element signature="e#15846#15847#0" expanded="false" />
+            <element signature="e#15888#15889#0" expanded="false" />
+            <element signature="docComment;method#setUserAgentStylesheet#0;class#Application#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="144" column="19" lean-forward="false" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11843#0" expanded="false" />
+            <element signature="docComment;class#Optional#0" expanded="false" />
+            <element signature="docComment;field#EMPTY#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#Optional#0;class#Optional#0" expanded="false" />
+            <element signature="e#1678#1679#0" expanded="false" />
+            <element signature="e#1711#1712#0" expanded="false" />
+            <element signature="docComment;method#empty#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#Optional#1;class#Optional#0" expanded="false" />
+            <element signature="e#2570#2571#0" expanded="false" />
+            <element signature="e#2628#2629#0" expanded="false" />
+            <element signature="docComment;method#of#0;class#Optional#0" expanded="false" />
+            <element signature="e#2998#2999#0" expanded="false" />
+            <element signature="e#3042#3043#0" expanded="false" />
+            <element signature="docComment;method#ofNullable#0;class#Optional#0" expanded="false" />
+            <element signature="e#3486#3487#0" expanded="false" />
+            <element signature="e#3544#3545#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#isPresent#0;class#Optional#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4278#4279#0" expanded="false" />
+            <element signature="docComment;method#ifPresent#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#filter#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#map#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#flatMap#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#orElse#0;class#Optional#0" expanded="false" />
+            <element signature="e#8628#8629#0" expanded="false" />
+            <element signature="e#8680#8681#0" expanded="false" />
+            <element signature="docComment;method#orElseGet#0;class#Optional#0" expanded="false" />
+            <element signature="e#9141#9142#0" expanded="false" />
+            <element signature="e#9199#9200#0" expanded="false" />
+            <element signature="docComment;method#orElseThrow#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Optional#0" expanded="false" />
+            <element signature="e#11157#11158#0" expanded="false" />
+            <element signature="e#11203#11204#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Optional#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16635">
+          <caret line="1600" column="24" lean-forward="false" selection-start-line="1600" selection-start-column="24" selection-end-line="1600" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#64655#0" expanded="false" />
+            <element signature="docComment;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_createPeer#0;class#Shape#0" expanded="false" />
+            <element signature="e#4885#4886#0" expanded="false" />
+            <element signature="e#4909#4910#0" expanded="false" />
+            <element signature="e#4966#4967#0" expanded="false" />
+            <element signature="e#5013#5014#0" expanded="false" />
+            <element signature="docComment;method#strokeTypeProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#5680#5681#0" expanded="false" />
+            <element signature="e#5739#5740#0" expanded="false" />
+            <element signature="e#5793#5794#0" expanded="false" />
+            <element signature="e#5841#5842#0" expanded="false" />
+            <element signature="docComment;method#strokeWidthProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#6274#6275#0" expanded="false" />
+            <element signature="e#6334#6335#0" expanded="false" />
+            <element signature="e#6399#6400#0" expanded="false" />
+            <element signature="e#6450#6451#0" expanded="false" />
+            <element signature="docComment;method#strokeLineJoinProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#7301#7302#0" expanded="false" />
+            <element signature="e#7351#7352#0" expanded="false" />
+            <element signature="docComment;method#strokeLineCapProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#8199#8200#0" expanded="false" />
+            <element signature="e#8252#8253#0" expanded="false" />
+            <element signature="docComment;method#strokeMiterLimitProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#9262#9263#0" expanded="false" />
+            <element signature="e#9327#9328#0" expanded="false" />
+            <element signature="e#9386#9387#0" expanded="false" />
+            <element signature="e#9439#9440#0" expanded="false" />
+            <element signature="docComment;method#strokeDashOffsetProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#10344#10345#0" expanded="false" />
+            <element signature="e#10409#10410#0" expanded="false" />
+            <element signature="docComment;method#getStrokeDashArray#0;class#Shape#0" expanded="false" />
+            <element signature="e#11926#11927#0" expanded="false" />
+            <element signature="e#11990#11991#0" expanded="false" />
+            <element signature="docComment;field#impl_mode#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#fill#0;class#Shape#0" expanded="false" />
+            <element signature="e#13255#13256#0" expanded="false" />
+            <element signature="e#13296#13297#0" expanded="false" />
+            <element signature="e#13332#13333#0" expanded="false" />
+            <element signature="e#13394#13395#0" expanded="false" />
+            <element signature="e#14488#14489#0" expanded="false" />
+            <element signature="e#14559#14560#0" expanded="false" />
+            <element signature="e#14628#14629#0" expanded="false" />
+            <element signature="e#14685#14686#0" expanded="false" />
+            <element signature="e#14754#14755#0" expanded="false" />
+            <element signature="e#14807#14808#0" expanded="false" />
+            <element signature="docComment;field#stroke#0;class#Shape#0" expanded="false" />
+            <element signature="e#15277#15278#0" expanded="false" />
+            <element signature="e#15320#15321#0" expanded="false" />
+            <element signature="e#15406#15693#0" expanded="false" />
+            <element signature="e#15692#15693#0" expanded="false" />
+            <element signature="e#15731#15732#0" expanded="false" />
+            <element signature="e#15790#15791#0" expanded="false" />
+            <element signature="e#16897#16898#0" expanded="false" />
+            <element signature="e#16970#16971#0" expanded="false" />
+            <element signature="e#17039#17040#0" expanded="false" />
+            <element signature="e#17096#17097#0" expanded="false" />
+            <element signature="e#17165#17166#0" expanded="false" />
+            <element signature="e#17220#17221#0" expanded="false" />
+            <element signature="docComment;field#smooth#0;class#Shape#0" expanded="false" />
+            <element signature="e#17558#17559#0" expanded="false" />
+            <element signature="e#17601#17602#0" expanded="false" />
+            <element signature="e#17640#17641#0" expanded="false" />
+            <element signature="e#17699#17700#0" expanded="false" />
+            <element signature="e#17911#17912#0" expanded="false" />
+            <element signature="e#17988#17989#0" expanded="false" />
+            <element signature="e#18084#18085#0" expanded="false" />
+            <element signature="e#18157#18158#0" expanded="false" />
+            <element signature="e#18226#18227#0" expanded="false" />
+            <element signature="e#18283#18284#0" expanded="false" />
+            <element signature="e#18352#18353#0" expanded="false" />
+            <element signature="e#18407#18408#0" expanded="false" />
+            <element signature="docComment;method#impl_cssGetFillInitialValue#0;class#Shape#0" expanded="false" />
+            <element signature="e#19291#19292#0" expanded="false" />
+            <element signature="e#19325#19326#0" expanded="false" />
+            <element signature="docComment;method#impl_cssGetStrokeInitialValue#0;class#Shape#0" expanded="false" />
+            <element signature="e#19753#19754#0" expanded="false" />
+            <element signature="e#19780#19781#0" expanded="false" />
+            <element signature="docComment;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#FILL#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#20338#20339#0" expanded="false" />
+            <element signature="e#20418#20419#0" expanded="false" />
+            <element signature="docComment;field#SMOOTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#21323#21324#0" expanded="false" />
+            <element signature="e#21407#21408#0" expanded="false" />
+            <element signature="docComment;field#STROKE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#21994#21995#0" expanded="false" />
+            <element signature="e#22078#22079#0" expanded="false" />
+            <element signature="docComment;field#STROKE_DASH_ARRAY#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#23563#23564#0" expanded="false" />
+            <element signature="e#23606#23607#0" expanded="false" />
+            <element signature="docComment;field#STROKE_DASH_OFFSET#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_LINE_CAP#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_LINE_JOIN#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_TYPE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_MITER_LIMIT#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_WIDTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#28797#28834#0" expanded="false" />
+            <element signature="docComment;method#getClassCssMetaData#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#getCssMetaData#0;class#Shape#0" expanded="false" />
+            <element signature="e#29828#29829#0" expanded="false" />
+            <element signature="e#29872#29873#0" expanded="false" />
+            <element signature="docComment;method#impl_computeGeomBounds#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_computeContains#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_configShape#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_markDirty#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_setShapeChangeListener#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_updatePeer#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#computeBounds#0;class#Shape#0" expanded="false" />
+            <element signature="e#42214#42215#0" expanded="false" />
+            <element signature="e#42298#42299#0" expanded="false" />
+            <element signature="e#43587#43588#0" expanded="false" />
+            <element signature="e#43667#43668#0" expanded="false" />
+            <element signature="e#44184#44185#0" expanded="false" />
+            <element signature="e#44270#44271#0" expanded="false" />
+            <element signature="e#44347#44348#0" expanded="false" />
+            <element signature="e#44412#44413#0" expanded="false" />
+            <element signature="e#44489#44490#0" expanded="false" />
+            <element signature="e#44556#44557#0" expanded="false" />
+            <element signature="e#44660#44661#0" expanded="false" />
+            <element signature="e#44743#44744#0" expanded="false" />
+            <element signature="e#45237#45238#0" expanded="false" />
+            <element signature="e#45324#45325#0" expanded="false" />
+            <element signature="e#45401#45402#0" expanded="false" />
+            <element signature="e#45466#45467#0" expanded="false" />
+            <element signature="e#45543#45544#0" expanded="false" />
+            <element signature="e#45611#45612#0" expanded="false" />
+            <element signature="e#46617#46618#0" expanded="false" />
+            <element signature="e#46682#46683#0" expanded="false" />
+            <element signature="e#46759#46760#0" expanded="false" />
+            <element signature="e#46830#46831#0" expanded="false" />
+            <element signature="e#47823#47824#0" expanded="false" />
+            <element signature="e#47888#47889#0" expanded="false" />
+            <element signature="e#47965#47966#0" expanded="false" />
+            <element signature="e#48035#48036#0" expanded="false" />
+            <element signature="e#48849#48850#0" expanded="false" />
+            <element signature="e#48942#48943#0" expanded="false" />
+            <element signature="e#49019#49020#0" expanded="false" />
+            <element signature="e#49084#49085#0" expanded="false" />
+            <element signature="e#49161#49162#0" expanded="false" />
+            <element signature="e#49234#49235#0" expanded="false" />
+            <element signature="e#50052#50053#0" expanded="false" />
+            <element signature="e#50145#50146#0" expanded="false" />
+            <element signature="e#50222#50223#0" expanded="false" />
+            <element signature="e#50287#50288#0" expanded="false" />
+            <element signature="e#50364#50365#0" expanded="false" />
+            <element signature="e#50437#50438#0" expanded="false" />
+            <element signature="e#50719#51024#0" expanded="false" />
+            <element signature="e#51023#51024#0" expanded="false" />
+            <element signature="e#52157#52158#0" expanded="false" />
+            <element signature="e#52222#52223#0" expanded="false" />
+            <element signature="e#52299#52300#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52681#52682#0" expanded="false" />
+            <element signature="e#52745#52746#0" expanded="false" />
+            <element signature="e#52785#52786#0" expanded="false" />
+            <element signature="e#52851#52852#0" expanded="false" />
+            <element signature="e#52894#52895#0" expanded="false" />
+            <element signature="e#52966#52967#0" expanded="false" />
+            <element signature="e#53008#53009#0" expanded="false" />
+            <element signature="e#53078#53079#0" expanded="false" />
+            <element signature="e#53123#53124#0" expanded="false" />
+            <element signature="e#53199#53200#0" expanded="false" />
+            <element signature="e#53244#53245#0" expanded="false" />
+            <element signature="e#53320#53321#0" expanded="false" />
+            <element signature="e#53361#53362#0" expanded="false" />
+            <element signature="e#53411#53412#0" expanded="false" />
+            <element signature="docComment;method#impl_processMXNode#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#union#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#subtract#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#intersect#0;class#Shape#0" expanded="false" />
+            <element signature="e#60358#60359#0" expanded="false" />
+            <element signature="e#60436#60437#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesteInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="122" column="28" lean-forward="false" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
+          <folding>
+            <element signature="e#3508#3509#0" expanded="true" />
+            <element signature="e#3542#3543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="49" lean-forward="true" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6900">
+          <caret line="460" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5490">
+          <caret line="366" column="0" lean-forward="false" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#71000#0" expanded="false" />
+            <element signature="docComment;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#REMOVED_CHILDREN_THRESHOLD#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#removedChildrenOptimizationDisabled#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_updatePeer#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#childSet#0;class#Parent#0" expanded="false" />
+            <element signature="e#5652#5658#0" expanded="false" />
+            <element signature="docComment;field#geomChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#unmodifiableChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#unmodifiableManagedChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#getChildren#0;class#Parent#0" expanded="false" />
+            <element signature="e#23786#23787#0" expanded="false" />
+            <element signature="e#23817#23818#0" expanded="false" />
+            <element signature="docComment;method#getChildrenUnmodifiable#0;class#Parent#0" expanded="false" />
+            <element signature="e#24093#24094#0" expanded="false" />
+            <element signature="e#24136#24137#0" expanded="false" />
+            <element signature="docComment;method#getManagedChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#managedChildChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_pickNodeLocal#0;class#Parent#0" expanded="false" />
+            <element signature="e#28821#28822#0" expanded="false" />
+            <element signature="e#28876#28877#0" expanded="false" />
+            <element signature="docComment;method#lookupAll#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#impl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#setImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#getImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_traversalEngineProperty#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#needsLayout#0;class#Parent#0" expanded="false" />
+            <element signature="e#32573#32574#0" expanded="false" />
+            <element signature="e#32634#32635#0" expanded="false" />
+            <element signature="docComment;field#performingLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#requestLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#requestParentLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computePrefWidth#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computePrefHeight#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computeMinWidth#0;class#Parent#0" expanded="false" />
+            <element signature="e#40014#40015#0" expanded="false" />
+            <element signature="e#40054#40055#0" expanded="false" />
+            <element signature="docComment;method#computeMinHeight#0;class#Parent#0" expanded="false" />
+            <element signature="e#40437#40438#0" expanded="false" />
+            <element signature="e#40477#40478#0" expanded="false" />
+            <element signature="docComment;method#getBaselineOffset#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#layout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#layoutChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#sceneRoot#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#layoutRoot#0;class#Parent#0" expanded="false" />
+            <element signature="e#44061#44062#0" expanded="false" />
+            <element signature="e#44115#44116#0" expanded="false" />
+            <element signature="e#44150#44151#0" expanded="false" />
+            <element signature="e#44182#44183#0" expanded="false" />
+            <element signature="docComment;field#stylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="e#44895#45758#0" expanded="false" />
+            <element signature="e#45757#45758#0" expanded="false" />
+            <element signature="docComment;method#getStylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_getAllParentStylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_processCSS#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#Parent#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_createPeer#0;class#Parent#0" expanded="false" />
+            <element signature="e#50831#50832#0" expanded="false" />
+            <element signature="e#50867#50868#0" expanded="false" />
+            <element signature="docComment;field#tmp#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#cachedBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#cachedBoundsInvalid#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#dirtyChildrenCount#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#dirtyChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_computeGeomBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#recomputeBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#childBoundsChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#childVisibilityChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_computeContains#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_processMXNode#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#test_getRemoved#0;class#Parent#0" expanded="false" />
+            <element signature="e#70966#70967#0" expanded="false" />
+            <element signature="e#70996#70997#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="188" column="37" lean-forward="true" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="144" column="22" lean-forward="false" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#17026#0" expanded="false" />
+            <element signature="docComment;class#Application#0" expanded="false" />
+            <element signature="docComment;field#STYLESHEET_CASPIAN#0;class#Application#0" expanded="false" />
+            <element signature="docComment;field#STYLESHEET_MODENA#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#launch#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#launch#1;class#Application#0" expanded="false" />
+            <element signature="docComment;method#Application#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getHostServices#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getParameters#0;class#Application#0" expanded="false" />
+            <element signature="e#12081#12082#0" expanded="false" />
+            <element signature="e#12138#12139#0" expanded="false" />
+            <element signature="docComment;method#notifyPreloader#0;class#Application#0" expanded="false" />
+            <element signature="e#13144#13145#0" expanded="false" />
+            <element signature="e#13200#13201#0" expanded="false" />
+            <element signature="docComment;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#Parameters#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getRaw#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getUnnamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getNamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getUserAgentStylesheet#0;class#Application#0" expanded="false" />
+            <element signature="e#15846#15847#0" expanded="false" />
+            <element signature="e#15888#15889#0" expanded="false" />
+            <element signature="docComment;method#setUserAgentStylesheet#0;class#Application#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="144" column="19" lean-forward="false" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11843#0" expanded="false" />
+            <element signature="docComment;class#Optional#0" expanded="false" />
+            <element signature="docComment;field#EMPTY#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#Optional#0;class#Optional#0" expanded="false" />
+            <element signature="e#1678#1679#0" expanded="false" />
+            <element signature="e#1711#1712#0" expanded="false" />
+            <element signature="docComment;method#empty#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#Optional#1;class#Optional#0" expanded="false" />
+            <element signature="e#2570#2571#0" expanded="false" />
+            <element signature="e#2628#2629#0" expanded="false" />
+            <element signature="docComment;method#of#0;class#Optional#0" expanded="false" />
+            <element signature="e#2998#2999#0" expanded="false" />
+            <element signature="e#3042#3043#0" expanded="false" />
+            <element signature="docComment;method#ofNullable#0;class#Optional#0" expanded="false" />
+            <element signature="e#3486#3487#0" expanded="false" />
+            <element signature="e#3544#3545#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#isPresent#0;class#Optional#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4278#4279#0" expanded="false" />
+            <element signature="docComment;method#ifPresent#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#filter#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#map#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#flatMap#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#orElse#0;class#Optional#0" expanded="false" />
+            <element signature="e#8628#8629#0" expanded="false" />
+            <element signature="e#8680#8681#0" expanded="false" />
+            <element signature="docComment;method#orElseGet#0;class#Optional#0" expanded="false" />
+            <element signature="e#9141#9142#0" expanded="false" />
+            <element signature="e#9199#9200#0" expanded="false" />
+            <element signature="docComment;method#orElseThrow#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Optional#0" expanded="false" />
+            <element signature="e#11157#11158#0" expanded="false" />
+            <element signature="e#11203#11204#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Optional#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24000">
+          <caret line="1600" column="24" lean-forward="false" selection-start-line="1600" selection-start-column="24" selection-end-line="1600" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#64655#0" expanded="false" />
+            <element signature="docComment;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_createPeer#0;class#Shape#0" expanded="false" />
+            <element signature="e#4885#4886#0" expanded="false" />
+            <element signature="e#4909#4910#0" expanded="false" />
+            <element signature="e#4966#4967#0" expanded="false" />
+            <element signature="e#5013#5014#0" expanded="false" />
+            <element signature="docComment;method#strokeTypeProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#5680#5681#0" expanded="false" />
+            <element signature="e#5739#5740#0" expanded="false" />
+            <element signature="e#5793#5794#0" expanded="false" />
+            <element signature="e#5841#5842#0" expanded="false" />
+            <element signature="docComment;method#strokeWidthProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#6274#6275#0" expanded="false" />
+            <element signature="e#6334#6335#0" expanded="false" />
+            <element signature="e#6399#6400#0" expanded="false" />
+            <element signature="e#6450#6451#0" expanded="false" />
+            <element signature="docComment;method#strokeLineJoinProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#7301#7302#0" expanded="false" />
+            <element signature="e#7351#7352#0" expanded="false" />
+            <element signature="docComment;method#strokeLineCapProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#8199#8200#0" expanded="false" />
+            <element signature="e#8252#8253#0" expanded="false" />
+            <element signature="docComment;method#strokeMiterLimitProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#9262#9263#0" expanded="false" />
+            <element signature="e#9327#9328#0" expanded="false" />
+            <element signature="e#9386#9387#0" expanded="false" />
+            <element signature="e#9439#9440#0" expanded="false" />
+            <element signature="docComment;method#strokeDashOffsetProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#10344#10345#0" expanded="false" />
+            <element signature="e#10409#10410#0" expanded="false" />
+            <element signature="docComment;method#getStrokeDashArray#0;class#Shape#0" expanded="false" />
+            <element signature="e#11926#11927#0" expanded="false" />
+            <element signature="e#11990#11991#0" expanded="false" />
+            <element signature="docComment;field#impl_mode#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#fill#0;class#Shape#0" expanded="false" />
+            <element signature="e#13255#13256#0" expanded="false" />
+            <element signature="e#13296#13297#0" expanded="false" />
+            <element signature="e#13332#13333#0" expanded="false" />
+            <element signature="e#13394#13395#0" expanded="false" />
+            <element signature="e#14488#14489#0" expanded="false" />
+            <element signature="e#14559#14560#0" expanded="false" />
+            <element signature="e#14628#14629#0" expanded="false" />
+            <element signature="e#14685#14686#0" expanded="false" />
+            <element signature="e#14754#14755#0" expanded="false" />
+            <element signature="e#14807#14808#0" expanded="false" />
+            <element signature="docComment;field#stroke#0;class#Shape#0" expanded="false" />
+            <element signature="e#15277#15278#0" expanded="false" />
+            <element signature="e#15320#15321#0" expanded="false" />
+            <element signature="e#15406#15693#0" expanded="false" />
+            <element signature="e#15692#15693#0" expanded="false" />
+            <element signature="e#15731#15732#0" expanded="false" />
+            <element signature="e#15790#15791#0" expanded="false" />
+            <element signature="e#16897#16898#0" expanded="false" />
+            <element signature="e#16970#16971#0" expanded="false" />
+            <element signature="e#17039#17040#0" expanded="false" />
+            <element signature="e#17096#17097#0" expanded="false" />
+            <element signature="e#17165#17166#0" expanded="false" />
+            <element signature="e#17220#17221#0" expanded="false" />
+            <element signature="docComment;field#smooth#0;class#Shape#0" expanded="false" />
+            <element signature="e#17558#17559#0" expanded="false" />
+            <element signature="e#17601#17602#0" expanded="false" />
+            <element signature="e#17640#17641#0" expanded="false" />
+            <element signature="e#17699#17700#0" expanded="false" />
+            <element signature="e#17911#17912#0" expanded="false" />
+            <element signature="e#17988#17989#0" expanded="false" />
+            <element signature="e#18084#18085#0" expanded="false" />
+            <element signature="e#18157#18158#0" expanded="false" />
+            <element signature="e#18226#18227#0" expanded="false" />
+            <element signature="e#18283#18284#0" expanded="false" />
+            <element signature="e#18352#18353#0" expanded="false" />
+            <element signature="e#18407#18408#0" expanded="false" />
+            <element signature="docComment;method#impl_cssGetFillInitialValue#0;class#Shape#0" expanded="false" />
+            <element signature="e#19291#19292#0" expanded="false" />
+            <element signature="e#19325#19326#0" expanded="false" />
+            <element signature="docComment;method#impl_cssGetStrokeInitialValue#0;class#Shape#0" expanded="false" />
+            <element signature="e#19753#19754#0" expanded="false" />
+            <element signature="e#19780#19781#0" expanded="false" />
+            <element signature="docComment;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#FILL#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#20338#20339#0" expanded="false" />
+            <element signature="e#20418#20419#0" expanded="false" />
+            <element signature="docComment;field#SMOOTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#21323#21324#0" expanded="false" />
+            <element signature="e#21407#21408#0" expanded="false" />
+            <element signature="docComment;field#STROKE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#21994#21995#0" expanded="false" />
+            <element signature="e#22078#22079#0" expanded="false" />
+            <element signature="docComment;field#STROKE_DASH_ARRAY#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#23563#23564#0" expanded="false" />
+            <element signature="e#23606#23607#0" expanded="false" />
+            <element signature="docComment;field#STROKE_DASH_OFFSET#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_LINE_CAP#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_LINE_JOIN#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_TYPE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_MITER_LIMIT#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_WIDTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#28797#28834#0" expanded="false" />
+            <element signature="docComment;method#getClassCssMetaData#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#getCssMetaData#0;class#Shape#0" expanded="false" />
+            <element signature="e#29828#29829#0" expanded="false" />
+            <element signature="e#29872#29873#0" expanded="false" />
+            <element signature="docComment;method#impl_computeGeomBounds#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_computeContains#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_configShape#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_markDirty#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_setShapeChangeListener#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_updatePeer#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#computeBounds#0;class#Shape#0" expanded="false" />
+            <element signature="e#42214#42215#0" expanded="false" />
+            <element signature="e#42298#42299#0" expanded="false" />
+            <element signature="e#43587#43588#0" expanded="false" />
+            <element signature="e#43667#43668#0" expanded="false" />
+            <element signature="e#44184#44185#0" expanded="false" />
+            <element signature="e#44270#44271#0" expanded="false" />
+            <element signature="e#44347#44348#0" expanded="false" />
+            <element signature="e#44412#44413#0" expanded="false" />
+            <element signature="e#44489#44490#0" expanded="false" />
+            <element signature="e#44556#44557#0" expanded="false" />
+            <element signature="e#44660#44661#0" expanded="false" />
+            <element signature="e#44743#44744#0" expanded="false" />
+            <element signature="e#45237#45238#0" expanded="false" />
+            <element signature="e#45324#45325#0" expanded="false" />
+            <element signature="e#45401#45402#0" expanded="false" />
+            <element signature="e#45466#45467#0" expanded="false" />
+            <element signature="e#45543#45544#0" expanded="false" />
+            <element signature="e#45611#45612#0" expanded="false" />
+            <element signature="e#46617#46618#0" expanded="false" />
+            <element signature="e#46682#46683#0" expanded="false" />
+            <element signature="e#46759#46760#0" expanded="false" />
+            <element signature="e#46830#46831#0" expanded="false" />
+            <element signature="e#47823#47824#0" expanded="false" />
+            <element signature="e#47888#47889#0" expanded="false" />
+            <element signature="e#47965#47966#0" expanded="false" />
+            <element signature="e#48035#48036#0" expanded="false" />
+            <element signature="e#48849#48850#0" expanded="false" />
+            <element signature="e#48942#48943#0" expanded="false" />
+            <element signature="e#49019#49020#0" expanded="false" />
+            <element signature="e#49084#49085#0" expanded="false" />
+            <element signature="e#49161#49162#0" expanded="false" />
+            <element signature="e#49234#49235#0" expanded="false" />
+            <element signature="e#50052#50053#0" expanded="false" />
+            <element signature="e#50145#50146#0" expanded="false" />
+            <element signature="e#50222#50223#0" expanded="false" />
+            <element signature="e#50287#50288#0" expanded="false" />
+            <element signature="e#50364#50365#0" expanded="false" />
+            <element signature="e#50437#50438#0" expanded="false" />
+            <element signature="e#50719#51024#0" expanded="false" />
+            <element signature="e#51023#51024#0" expanded="false" />
+            <element signature="e#52157#52158#0" expanded="false" />
+            <element signature="e#52222#52223#0" expanded="false" />
+            <element signature="e#52299#52300#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52681#52682#0" expanded="false" />
+            <element signature="e#52745#52746#0" expanded="false" />
+            <element signature="e#52785#52786#0" expanded="false" />
+            <element signature="e#52851#52852#0" expanded="false" />
+            <element signature="e#52894#52895#0" expanded="false" />
+            <element signature="e#52966#52967#0" expanded="false" />
+            <element signature="e#53008#53009#0" expanded="false" />
+            <element signature="e#53078#53079#0" expanded="false" />
+            <element signature="e#53123#53124#0" expanded="false" />
+            <element signature="e#53199#53200#0" expanded="false" />
+            <element signature="e#53244#53245#0" expanded="false" />
+            <element signature="e#53320#53321#0" expanded="false" />
+            <element signature="e#53361#53362#0" expanded="false" />
+            <element signature="e#53411#53412#0" expanded="false" />
+            <element signature="docComment;method#impl_processMXNode#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#union#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#subtract#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#intersect#0;class#Shape#0" expanded="false" />
+            <element signature="e#60358#60359#0" expanded="false" />
+            <element signature="e#60436#60437#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesteInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="173" column="59" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+          <folding>
+            <element signature="e#3508#3509#0" expanded="true" />
+            <element signature="e#3542#3543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Teste.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16635">
+          <caret line="1600" column="24" lean-forward="false" selection-start-line="1600" selection-start-column="24" selection-end-line="1600" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#64655#0" expanded="false" />
+            <element signature="docComment;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_createPeer#0;class#Shape#0" expanded="false" />
+            <element signature="e#4885#4886#0" expanded="false" />
+            <element signature="e#4909#4910#0" expanded="false" />
+            <element signature="e#4966#4967#0" expanded="false" />
+            <element signature="e#5013#5014#0" expanded="false" />
+            <element signature="docComment;method#strokeTypeProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#5680#5681#0" expanded="false" />
+            <element signature="e#5739#5740#0" expanded="false" />
+            <element signature="e#5793#5794#0" expanded="false" />
+            <element signature="e#5841#5842#0" expanded="false" />
+            <element signature="docComment;method#strokeWidthProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#6274#6275#0" expanded="false" />
+            <element signature="e#6334#6335#0" expanded="false" />
+            <element signature="e#6399#6400#0" expanded="false" />
+            <element signature="e#6450#6451#0" expanded="false" />
+            <element signature="docComment;method#strokeLineJoinProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#7301#7302#0" expanded="false" />
+            <element signature="e#7351#7352#0" expanded="false" />
+            <element signature="docComment;method#strokeLineCapProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#8199#8200#0" expanded="false" />
+            <element signature="e#8252#8253#0" expanded="false" />
+            <element signature="docComment;method#strokeMiterLimitProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#9262#9263#0" expanded="false" />
+            <element signature="e#9327#9328#0" expanded="false" />
+            <element signature="e#9386#9387#0" expanded="false" />
+            <element signature="e#9439#9440#0" expanded="false" />
+            <element signature="docComment;method#strokeDashOffsetProperty#0;class#Shape#0" expanded="false" />
+            <element signature="e#10344#10345#0" expanded="false" />
+            <element signature="e#10409#10410#0" expanded="false" />
+            <element signature="docComment;method#getStrokeDashArray#0;class#Shape#0" expanded="false" />
+            <element signature="e#11926#11927#0" expanded="false" />
+            <element signature="e#11990#11991#0" expanded="false" />
+            <element signature="docComment;field#impl_mode#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#fill#0;class#Shape#0" expanded="false" />
+            <element signature="e#13255#13256#0" expanded="false" />
+            <element signature="e#13296#13297#0" expanded="false" />
+            <element signature="e#13332#13333#0" expanded="false" />
+            <element signature="e#13394#13395#0" expanded="false" />
+            <element signature="e#14488#14489#0" expanded="false" />
+            <element signature="e#14559#14560#0" expanded="false" />
+            <element signature="e#14628#14629#0" expanded="false" />
+            <element signature="e#14685#14686#0" expanded="false" />
+            <element signature="e#14754#14755#0" expanded="false" />
+            <element signature="e#14807#14808#0" expanded="false" />
+            <element signature="docComment;field#stroke#0;class#Shape#0" expanded="false" />
+            <element signature="e#15277#15278#0" expanded="false" />
+            <element signature="e#15320#15321#0" expanded="false" />
+            <element signature="e#15406#15693#0" expanded="false" />
+            <element signature="e#15692#15693#0" expanded="false" />
+            <element signature="e#15731#15732#0" expanded="false" />
+            <element signature="e#15790#15791#0" expanded="false" />
+            <element signature="e#16897#16898#0" expanded="false" />
+            <element signature="e#16970#16971#0" expanded="false" />
+            <element signature="e#17039#17040#0" expanded="false" />
+            <element signature="e#17096#17097#0" expanded="false" />
+            <element signature="e#17165#17166#0" expanded="false" />
+            <element signature="e#17220#17221#0" expanded="false" />
+            <element signature="docComment;field#smooth#0;class#Shape#0" expanded="false" />
+            <element signature="e#17558#17559#0" expanded="false" />
+            <element signature="e#17601#17602#0" expanded="false" />
+            <element signature="e#17640#17641#0" expanded="false" />
+            <element signature="e#17699#17700#0" expanded="false" />
+            <element signature="e#17911#17912#0" expanded="false" />
+            <element signature="e#17988#17989#0" expanded="false" />
+            <element signature="e#18084#18085#0" expanded="false" />
+            <element signature="e#18157#18158#0" expanded="false" />
+            <element signature="e#18226#18227#0" expanded="false" />
+            <element signature="e#18283#18284#0" expanded="false" />
+            <element signature="e#18352#18353#0" expanded="false" />
+            <element signature="e#18407#18408#0" expanded="false" />
+            <element signature="docComment;method#impl_cssGetFillInitialValue#0;class#Shape#0" expanded="false" />
+            <element signature="e#19291#19292#0" expanded="false" />
+            <element signature="e#19325#19326#0" expanded="false" />
+            <element signature="docComment;method#impl_cssGetStrokeInitialValue#0;class#Shape#0" expanded="false" />
+            <element signature="e#19753#19754#0" expanded="false" />
+            <element signature="e#19780#19781#0" expanded="false" />
+            <element signature="docComment;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#FILL#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#20338#20339#0" expanded="false" />
+            <element signature="e#20418#20419#0" expanded="false" />
+            <element signature="docComment;field#SMOOTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#21323#21324#0" expanded="false" />
+            <element signature="e#21407#21408#0" expanded="false" />
+            <element signature="docComment;field#STROKE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#21994#21995#0" expanded="false" />
+            <element signature="e#22078#22079#0" expanded="false" />
+            <element signature="docComment;field#STROKE_DASH_ARRAY#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#23563#23564#0" expanded="false" />
+            <element signature="e#23606#23607#0" expanded="false" />
+            <element signature="docComment;field#STROKE_DASH_OFFSET#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_LINE_CAP#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_LINE_JOIN#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_TYPE#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_MITER_LIMIT#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;field#STROKE_WIDTH#0;class#StyleableProperties#0;class#Shape#0" expanded="false" />
+            <element signature="e#28797#28834#0" expanded="false" />
+            <element signature="docComment;method#getClassCssMetaData#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#getCssMetaData#0;class#Shape#0" expanded="false" />
+            <element signature="e#29828#29829#0" expanded="false" />
+            <element signature="e#29872#29873#0" expanded="false" />
+            <element signature="docComment;method#impl_computeGeomBounds#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_computeContains#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_configShape#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_markDirty#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_setShapeChangeListener#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#impl_updatePeer#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#computeBounds#0;class#Shape#0" expanded="false" />
+            <element signature="e#42214#42215#0" expanded="false" />
+            <element signature="e#42298#42299#0" expanded="false" />
+            <element signature="e#43587#43588#0" expanded="false" />
+            <element signature="e#43667#43668#0" expanded="false" />
+            <element signature="e#44184#44185#0" expanded="false" />
+            <element signature="e#44270#44271#0" expanded="false" />
+            <element signature="e#44347#44348#0" expanded="false" />
+            <element signature="e#44412#44413#0" expanded="false" />
+            <element signature="e#44489#44490#0" expanded="false" />
+            <element signature="e#44556#44557#0" expanded="false" />
+            <element signature="e#44660#44661#0" expanded="false" />
+            <element signature="e#44743#44744#0" expanded="false" />
+            <element signature="e#45237#45238#0" expanded="false" />
+            <element signature="e#45324#45325#0" expanded="false" />
+            <element signature="e#45401#45402#0" expanded="false" />
+            <element signature="e#45466#45467#0" expanded="false" />
+            <element signature="e#45543#45544#0" expanded="false" />
+            <element signature="e#45611#45612#0" expanded="false" />
+            <element signature="e#46617#46618#0" expanded="false" />
+            <element signature="e#46682#46683#0" expanded="false" />
+            <element signature="e#46759#46760#0" expanded="false" />
+            <element signature="e#46830#46831#0" expanded="false" />
+            <element signature="e#47823#47824#0" expanded="false" />
+            <element signature="e#47888#47889#0" expanded="false" />
+            <element signature="e#47965#47966#0" expanded="false" />
+            <element signature="e#48035#48036#0" expanded="false" />
+            <element signature="e#48849#48850#0" expanded="false" />
+            <element signature="e#48942#48943#0" expanded="false" />
+            <element signature="e#49019#49020#0" expanded="false" />
+            <element signature="e#49084#49085#0" expanded="false" />
+            <element signature="e#49161#49162#0" expanded="false" />
+            <element signature="e#49234#49235#0" expanded="false" />
+            <element signature="e#50052#50053#0" expanded="false" />
+            <element signature="e#50145#50146#0" expanded="false" />
+            <element signature="e#50222#50223#0" expanded="false" />
+            <element signature="e#50287#50288#0" expanded="false" />
+            <element signature="e#50364#50365#0" expanded="false" />
+            <element signature="e#50437#50438#0" expanded="false" />
+            <element signature="e#50719#51024#0" expanded="false" />
+            <element signature="e#51023#51024#0" expanded="false" />
+            <element signature="e#52157#52158#0" expanded="false" />
+            <element signature="e#52222#52223#0" expanded="false" />
+            <element signature="e#52299#52300#0" expanded="false" />
+            <element signature="e#52368#52369#0" expanded="false" />
+            <element signature="e#52681#52682#0" expanded="false" />
+            <element signature="e#52745#52746#0" expanded="false" />
+            <element signature="e#52785#52786#0" expanded="false" />
+            <element signature="e#52851#52852#0" expanded="false" />
+            <element signature="e#52894#52895#0" expanded="false" />
+            <element signature="e#52966#52967#0" expanded="false" />
+            <element signature="e#53008#53009#0" expanded="false" />
+            <element signature="e#53078#53079#0" expanded="false" />
+            <element signature="e#53123#53124#0" expanded="false" />
+            <element signature="e#53199#53200#0" expanded="false" />
+            <element signature="e#53244#53245#0" expanded="false" />
+            <element signature="e#53320#53321#0" expanded="false" />
+            <element signature="e#53361#53362#0" expanded="false" />
+            <element signature="e#53411#53412#0" expanded="false" />
+            <element signature="docComment;method#impl_processMXNode#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#union#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#subtract#0;class#Shape#0" expanded="false" />
+            <element signature="docComment;method#intersect#0;class#Shape#0" expanded="false" />
+            <element signature="e#60358#60359#0" expanded="false" />
+            <element signature="e#60436#60437#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="144" column="19" lean-forward="false" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11843#0" expanded="false" />
+            <element signature="docComment;class#Optional#0" expanded="false" />
+            <element signature="docComment;field#EMPTY#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#Optional#0;class#Optional#0" expanded="false" />
+            <element signature="e#1678#1679#0" expanded="false" />
+            <element signature="e#1711#1712#0" expanded="false" />
+            <element signature="docComment;method#empty#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#Optional#1;class#Optional#0" expanded="false" />
+            <element signature="e#2570#2571#0" expanded="false" />
+            <element signature="e#2628#2629#0" expanded="false" />
+            <element signature="docComment;method#of#0;class#Optional#0" expanded="false" />
+            <element signature="e#2998#2999#0" expanded="false" />
+            <element signature="e#3042#3043#0" expanded="false" />
+            <element signature="docComment;method#ofNullable#0;class#Optional#0" expanded="false" />
+            <element signature="e#3486#3487#0" expanded="false" />
+            <element signature="e#3544#3545#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#isPresent#0;class#Optional#0" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="false" />
+            <element signature="e#4278#4279#0" expanded="false" />
+            <element signature="docComment;method#ifPresent#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#filter#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#map#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#flatMap#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#orElse#0;class#Optional#0" expanded="false" />
+            <element signature="e#8628#8629#0" expanded="false" />
+            <element signature="e#8680#8681#0" expanded="false" />
+            <element signature="docComment;method#orElseGet#0;class#Optional#0" expanded="false" />
+            <element signature="e#9141#9142#0" expanded="false" />
+            <element signature="e#9199#9200#0" expanded="false" />
+            <element signature="docComment;method#orElseThrow#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Optional#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Optional#0" expanded="false" />
+            <element signature="e#11157#11158#0" expanded="false" />
+            <element signature="e#11203#11204#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Optional#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="144" column="22" lean-forward="false" selection-start-line="144" selection-start-column="22" selection-end-line="144" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#17026#0" expanded="false" />
+            <element signature="docComment;class#Application#0" expanded="false" />
+            <element signature="docComment;field#STYLESHEET_CASPIAN#0;class#Application#0" expanded="false" />
+            <element signature="docComment;field#STYLESHEET_MODENA#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#launch#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#launch#1;class#Application#0" expanded="false" />
+            <element signature="docComment;method#Application#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getHostServices#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getParameters#0;class#Application#0" expanded="false" />
+            <element signature="e#12081#12082#0" expanded="false" />
+            <element signature="e#12138#12139#0" expanded="false" />
+            <element signature="docComment;method#notifyPreloader#0;class#Application#0" expanded="false" />
+            <element signature="e#13144#13145#0" expanded="false" />
+            <element signature="e#13200#13201#0" expanded="false" />
+            <element signature="docComment;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#Parameters#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getRaw#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getUnnamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getNamed#0;class#Parameters#0;class#Application#0" expanded="false" />
+            <element signature="docComment;method#getUserAgentStylesheet#0;class#Application#0" expanded="false" />
+            <element signature="e#15846#15847#0" expanded="false" />
+            <element signature="e#15888#15889#0" expanded="false" />
+            <element signature="docComment;method#setUserAgentStylesheet#0;class#Application#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4530">
+          <caret line="366" column="0" lean-forward="false" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#71000#0" expanded="false" />
+            <element signature="docComment;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#REMOVED_CHILDREN_THRESHOLD#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#removedChildrenOptimizationDisabled#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_updatePeer#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#childSet#0;class#Parent#0" expanded="false" />
+            <element signature="e#5652#5658#0" expanded="false" />
+            <element signature="docComment;field#geomChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#unmodifiableChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#unmodifiableManagedChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#getChildren#0;class#Parent#0" expanded="false" />
+            <element signature="e#23786#23787#0" expanded="false" />
+            <element signature="e#23817#23818#0" expanded="false" />
+            <element signature="docComment;method#getChildrenUnmodifiable#0;class#Parent#0" expanded="false" />
+            <element signature="e#24093#24094#0" expanded="false" />
+            <element signature="e#24136#24137#0" expanded="false" />
+            <element signature="docComment;method#getManagedChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#managedChildChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_pickNodeLocal#0;class#Parent#0" expanded="false" />
+            <element signature="e#28821#28822#0" expanded="false" />
+            <element signature="e#28876#28877#0" expanded="false" />
+            <element signature="docComment;method#lookupAll#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#impl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#setImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#getImpl_traversalEngine#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_traversalEngineProperty#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#needsLayout#0;class#Parent#0" expanded="false" />
+            <element signature="e#32573#32574#0" expanded="false" />
+            <element signature="e#32634#32635#0" expanded="false" />
+            <element signature="docComment;field#performingLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#requestLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#requestParentLayout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computePrefWidth#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computePrefHeight#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#computeMinWidth#0;class#Parent#0" expanded="false" />
+            <element signature="e#40014#40015#0" expanded="false" />
+            <element signature="e#40054#40055#0" expanded="false" />
+            <element signature="docComment;method#computeMinHeight#0;class#Parent#0" expanded="false" />
+            <element signature="e#40437#40438#0" expanded="false" />
+            <element signature="e#40477#40478#0" expanded="false" />
+            <element signature="docComment;method#getBaselineOffset#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#layout#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#layoutChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#sceneRoot#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#layoutRoot#0;class#Parent#0" expanded="false" />
+            <element signature="e#44061#44062#0" expanded="false" />
+            <element signature="e#44115#44116#0" expanded="false" />
+            <element signature="e#44150#44151#0" expanded="false" />
+            <element signature="e#44182#44183#0" expanded="false" />
+            <element signature="docComment;field#stylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="e#44895#45758#0" expanded="false" />
+            <element signature="e#45757#45758#0" expanded="false" />
+            <element signature="docComment;method#getStylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_getAllParentStylesheets#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_processCSS#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#Parent#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_createPeer#0;class#Parent#0" expanded="false" />
+            <element signature="e#50831#50832#0" expanded="false" />
+            <element signature="e#50867#50868#0" expanded="false" />
+            <element signature="docComment;field#tmp#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#cachedBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#cachedBoundsInvalid#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#dirtyChildrenCount#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;field#dirtyChildren#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_computeGeomBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#recomputeBounds#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#childBoundsChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#childVisibilityChanged#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_computeContains#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#impl_processMXNode#0;class#Parent#0" expanded="false" />
+            <element signature="docComment;method#test_getRemoved#0;class#Parent#0" expanded="false" />
+            <element signature="e#70966#70967#0" expanded="false" />
+            <element signature="e#70996#70997#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/scene/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="3778" column="33" lean-forward="true" selection-start-line="3778" selection-start-column="33" selection-end-line="3778" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="88" column="62" lean-forward="true" selection-start-line="88" selection-start-column="62" selection-end-line="88" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="744" column="16" lean-forward="false" selection-start-line="744" selection-start-column="16" selection-end-line="744" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesteInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="145" column="18" lean-forward="false" selection-start-line="145" selection-start-column="18" selection-end-line="145" selection-end-column="18" />
+          <folding>
+            <element signature="e#3508#3509#0" expanded="true" />
+            <element signature="e#3542#3543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

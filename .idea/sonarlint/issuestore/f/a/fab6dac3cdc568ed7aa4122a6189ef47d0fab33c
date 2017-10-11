@@ -1,0 +1,91 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛùØùÿÿÿÿ8û˜™›ğ+
+esquid:S1192"IDefine a constant instead of duplicating this literal "Empatou." 4 times.(°¤š›8û˜™›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÜÜ†úÿÿÿÿ8Ñóç›ğ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¤š›8Ñóç›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(äæİ‡8Ñóç›ğ+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ÉªÁ¦úÿÿÿÿ8Ñóç›ğ+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(Õ©§îûÿÿÿÿ8û˜™›ğ+
+^squid:HiddenFieldCheck"7Rename "out" which hides the field declared at line 22.(¢¹ÃÆ8Ñóç›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÊÍÁøÿÿÿÿ8´Ÿ¦›ğ+
+dsquid:S1226"CIntroduce a new variable instead of reusing the parameter "coluna".(ê€å—şÿÿÿÿ8´Ÿ¦›ğ+
+Zsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ßüáıÿÿÿÿ8Ñóç›ğ+
+^squid:S1226"BIntroduce a new variable instead of reusing the parameter "linha".(ä¢©8û˜™›ğ+
+7squid:S2153"Remove the boxing of "col".(æ¡öë8û˜™›ğ+
+7squid:S2153"Remove the boxing of "col".(æ¡öë8Ñóç›ğ+
+Nsquid:S1481"-Remove this unused "hostname" local variable.(óùæüÿÿÿÿ8êîç›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÌ˜‹ûÿÿÿÿ8´Ÿ¦›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(äæİ‡8û˜™›ğ+
+]squid:S1854"<Remove this useless assignment to local variable "hostname".(óùæüÿÿÿÿ8êîç›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ®àŠøÿÿÿÿ8û˜™›ğ+
+ksquid:S1192"JDefine a constant instead of duplicating this literal "localhost" 3 times.(ÉªÁ¦úÿÿÿÿ8êîç›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛùØùÿÿÿÿ8´Ÿ¦›ğ+
+Usquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¼²°Õ8û˜™›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãñ—àıÿÿÿÿ8û˜™›ğ+
+Ssquid:S1854"7Remove this useless assignment to local variable "out".(–ğ˜ô8Ñóç›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÁĞÅüÿÿÿÿ8æò›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ®àŠøÿÿÿÿ8Ñóç›ğ+
+Zsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(•óí›üÿÿÿÿ8Ñóç›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(äæİ‡8Ñóç›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(ÄÓóÊ8Ñóç›ğ+
+dsquid:S1226"CIntroduce a new variable instead of reusing the parameter "coluna".(ê€å—şÿÿÿÿ8´Ÿ¦›ğ+
+Zsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ßüáıÿÿÿÿ8û˜™›ğ+
+rsquid:S1192"VDefine a constant instead of duplicating this literal "could not find a game" 6 times.(¶ÇŒ8û˜™›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÜÜ†úÿÿÿÿ8û˜™›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8´Ÿ¦›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(çÔ‡Æûÿÿÿÿ8´Ÿ¦›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(„–‘§úÿÿÿÿ8´Ÿ¦›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ÿ¦›ğ+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¨ò8Ñóç›ğ+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(Õ©§îûÿÿÿÿ8û˜™›ğ+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(“–ış8´Ÿ¦›ğ+
+^squid:S1226"BIntroduce a new variable instead of reusing the parameter "linha".(îğê“8û˜™›ğ+
+Bsquid:S1905"&Remove this unnecessary cast to "int".(ÙŒ˜Ä8´Ÿ¦›ğ+
+Vsquid:S2209"5Change this instance-reference to a static reference.(çÌ‰Üÿÿÿÿÿ8û˜™›ğ+
+Zsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(•óí›üÿÿÿÿ8û˜™›ğ+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8û˜™›ğ+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(–¶Ÿ¡8´Ÿ¦›ğ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¤š›8û˜™›ğ+
+esquid:S1192"IDefine a constant instead of duplicating this literal "YOU LOSE" 4 times.(¶ÇŒ8û˜™›ğ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Šƒêà8´Ÿ¦›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÛÆ›ÿÿÿÿÿ8™—Ÿœğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´¼ãœıÿÿÿÿ8Ñóç›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(äæİ‡8û˜™›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(‘ùÀÅ8Ñóç›ğ+
+Lsquid:S3010"+Remove this assignment of "testeInterface".(çÌ‰Üÿÿÿÿÿ8û˜™›ğ+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(Õ©§îûÿÿÿÿ8û˜™›ğ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¤š›8û˜™›ğ+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(Õ©§îûÿÿÿÿ8û˜™›ğ+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ñóç›ğ+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¨ò8û˜™›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´¼ãœıÿÿÿÿ8û˜™›ğ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãñ—àıÿÿÿÿ8Ñóç›ğ+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(¯ä©8Ñóç›ğ+
+<squid:S2153"Remove the boxing of "col".(úÌíúÿÿÿÿ8û˜™›ğ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¤š›8´Ÿ¦›ğ+
+Usquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¼²°Õ8Ñóç›ğ+
